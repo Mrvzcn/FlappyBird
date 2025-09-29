@@ -1,5 +1,5 @@
-# FlappyBird   
-# AÇIKLAMA  
+# Flappy Bird   
+### AÇIKLAMA  
 Bu proje klasikleşmiş bir fluppy bird oyunudur.  
 # ÖZELLİKLER
 * Bağımlılık yapan yapısı
