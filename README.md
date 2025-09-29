@@ -1,4 +1,4 @@
-# Flappy Bird   
+# FLAPPY BİRD  
 ### AÇIKLAMA  
 Bu proje klasikleşmiş bir fluppy bird oyunudur.  
 ### ÖZELLİKLER
@@ -7,7 +7,7 @@ Bu proje klasikleşmiş bir fluppy bird oyunudur.
 * Sade bir arayüz
 * Score takibi  
 ### NASIL OYNANIR ?
-* Releases kısmından .zip dosyası halinde indirin.
+* Releases kısmından .zip dosyası halinde indirin. ( https://github.com/Mrvzcn/FlappyBird/releases/download/v1.0.0/FlappyBird.zip )
 * Oyunu başlatın.
 * Oyun başladığı andan itibaren kuş aşağı doğru düşer.
 * "SPACE" tuşuyla kuş yukarı doğru hareket etmeye başlayın.
